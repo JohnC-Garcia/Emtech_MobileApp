@@ -1,0 +1,15 @@
+{
+  "name": "mobile_app",
+  "slug": "mobile_app",
+  "expo": {
+    "scheme": "microgrid",
+    "extra": {
+      "eas": {
+        "projectId": "2495fea2-c2ba-41d1-a91c-ae1fa55ad47f"
+      }
+    },
+    "android": {
+      "package": "com.arthurione.mobile_app"
+    }
+  }
+}
