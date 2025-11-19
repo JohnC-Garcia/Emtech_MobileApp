@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Battery Monitor",
+    "slug": "mobile_app",
+    "icon": "./assets/images/apk_icon.png",
+    "scheme": "microgrid",
+    "extra": {
+      "eas": {
+        "projectId": "cdd9ae16-8dc5-4911-b2e1-4c9e2f60d9d7"
+      }
+    },
+    "android": {
+      "package": "com.arthurione.mobile_app",
+      "icon": "./assets/images/apk_icon.png"
+    },
+    "owner": "johncarlos23"
+  }
+}
